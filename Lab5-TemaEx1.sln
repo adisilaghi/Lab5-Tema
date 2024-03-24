@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5-TemaEx1", "Lab5-TemaEx1\Lab5-TemaEx1.csproj", "{02389DE1-6B90-4934-9B12-4ABC07597370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labt-TemaEx2", "Labt-TemaEx2\Labt-TemaEx2.csproj", "{751C4099-3F54-457E-8530-43AE939EDA44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labt-TemaEx3", "Labt-TemaEx3\Labt-TemaEx3.csproj", "{A04BFC18-D6A2-4386-91E0-076EDCF583B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labt-TemaEx4", "Labt-TemaEx4\Labt-TemaEx4.csproj", "{1E4D4564-04DA-42C3-9BEC-9EBF096F8C13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labt-TemaEx5", "Labt-TemaEx5\Labt-TemaEx5.csproj", "{BBE4EC03-AE39-406E-97AB-764F8145FA92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labt-TemaEx6", "Labt-TemaEx6\Labt-TemaEx6.csproj", "{6C9A46DA-1AC7-4FE5-9D07-AF6119265524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02389DE1-6B90-4934-9B12-4ABC07597370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02389DE1-6B90-4934-9B12-4ABC07597370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02389DE1-6B90-4934-9B12-4ABC07597370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02389DE1-6B90-4934-9B12-4ABC07597370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{751C4099-3F54-457E-8530-43AE939EDA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751C4099-3F54-457E-8530-43AE939EDA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751C4099-3F54-457E-8530-43AE939EDA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751C4099-3F54-457E-8530-43AE939EDA44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A04BFC18-D6A2-4386-91E0-076EDCF583B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04BFC18-D6A2-4386-91E0-076EDCF583B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04BFC18-D6A2-4386-91E0-076EDCF583B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04BFC18-D6A2-4386-91E0-076EDCF583B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E4D4564-04DA-42C3-9BEC-9EBF096F8C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4D4564-04DA-42C3-9BEC-9EBF096F8C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4D4564-04DA-42C3-9BEC-9EBF096F8C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4D4564-04DA-42C3-9BEC-9EBF096F8C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE4EC03-AE39-406E-97AB-764F8145FA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE4EC03-AE39-406E-97AB-764F8145FA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE4EC03-AE39-406E-97AB-764F8145FA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE4EC03-AE39-406E-97AB-764F8145FA92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C9A46DA-1AC7-4FE5-9D07-AF6119265524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C9A46DA-1AC7-4FE5-9D07-AF6119265524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C9A46DA-1AC7-4FE5-9D07-AF6119265524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C9A46DA-1AC7-4FE5-9D07-AF6119265524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0F32DC6-C1B1-4F9E-8007-83C4EFB95173}
+	EndGlobalSection
+EndGlobal
